@@ -1,0 +1,6 @@
+site_name: pushkin
+plugins:
+  - mike:
+      # Add optional configurations if needed
+      version_selector: true
+      # ... other configurations
